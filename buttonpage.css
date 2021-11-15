@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+.container
+{
+    margin-top:50px;
+    margin-left: 180px;
+    height: 60px;
+    display:flex;
+}
+.left-part
+{
+    float:left;
+    width:30%;
+    font-size:40px;
+    font-weight: bold;
+}
+.right-part
+{
+    float:right;
+    width:60%;
+    justify-content: space-between;
+    padding-left: 20px;
+    margin-right: 30px;
+}
+a.navbar:hover
+{
+    color: red;;
+}
+.logo
+{
+    height:30px;
+    width:30px;
+    object-fit:fill;
+}
+a.navbar{
+    text-decoration: none;
+    color:black;
+    padding-left: 30px;
+    font-size: 20px;
+}
