@@ -8,7 +8,7 @@ body{
 .container
 {
     margin-top:50px;
-    margin-left: 180px;
+    margin-left: 220px;
     height: 60px;
     display:flex;
 }
@@ -26,6 +26,12 @@ body{
     justify-content: space-between;
     padding-left: 20px;
     margin-right: 30px;
+}
+a.logotag
+{
+    text-decoration:none;
+    color: black;
+    cursor: pointer;
 }
 a.navbar:hover
 {
@@ -69,7 +75,7 @@ a.navbar{
 }
 .main-part
 {
-    margin-left: 180px;
+    margin-left: 220px;
     padding-top: 50px;
 }
 .below-head
@@ -94,11 +100,11 @@ a.buttongo
 .sectionf
 {
     padding-top: 30px;
-    margin-left: 240px;
+    margin-left: 220px;
 }
 .sectiong
 {
-    margin-left: 240px;
+    margin-left: 220px;
     display: flex;
     padding-top: 2px;
 }
@@ -117,7 +123,7 @@ a.buttongo
 .lower-section
 {
     height: 100px;
-    margin-left: 240px;
+    margin-left: 220px;
     padding-top: 10px;
     display: flex;
 }
@@ -133,7 +139,7 @@ a.buttongo
 }
 .bottom
 {
-    margin-left: 240px;
+    margin-left: 220px;
     height:300px;
 }
 .developer
@@ -151,7 +157,7 @@ a.buttongo
     float: left;    
     height:190px;
     width: 300px;
-    margin-left: 30px;
+    margin-left: 40px;
     background-color: whitesmoke;
     text-align: left;
     padding: 10px 10px 10px 10px;
